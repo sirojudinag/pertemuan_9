@@ -123,7 +123,7 @@ public class MainActivity extends AppCompatActivity {
     }
 }
 
-
+    // batas komentar ----------------------------------------------------------------------------------------------------------------------------------------------
     /*
     String timeStamp = new SimpleDateFormat("yyyyMMdd_HHmmss").format(new Date());
     File mediaFile;
